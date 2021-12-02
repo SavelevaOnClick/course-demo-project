@@ -1,0 +1,1 @@
+export { navConfig } from './nav'
